@@ -41,3 +41,16 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.ccsproject
+.cproject
+*.project
+.launches/MSP430-Software-UART.launch
+*.prefs
+Debug/ccsObjs.opt
+*.pp
+Debug/MSP430-Software-UART.map
+*.xml
+Debug/MSP430-Software-UART.out
+*.cmd
+targetConfigs/MSP430G2553.ccxml
+*.txt
